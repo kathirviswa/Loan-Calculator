@@ -18,6 +18,9 @@
 👉CSS: Styling to create a visually appealing layout.
 👉JavaScript: Logic to perform calculations and update the interface dynamically.
 
+## Clone the repository:
+   
+   👉Git Clone : 
 📺 LIVE STREAMING LINK : https://loancalculates.netlify.app/
 
 ## Contact
