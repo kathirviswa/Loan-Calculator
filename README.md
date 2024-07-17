@@ -25,7 +25,9 @@
 👇If you have any questions or feedback, feel free to reach out:
 
 👤GitHub:kathirviswa
+
 📩Email: kathirviswa57@gmail.com
+
 ➡️Linkedin:https://www.linkedin.com/in/kathirviswa/
 
 🙏Thank you for visiting the Loan Calculator repository! Enjoy exploring the project and happy coding!
