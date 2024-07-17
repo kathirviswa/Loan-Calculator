@@ -18,7 +18,7 @@
 👉CSS: Styling to create a visually appealing layout.
 👉JavaScript: Logic to perform calculations and update the interface dynamically.
 
-📺 LIVE STREAMING LINK :https://loancalculates.netlify.app/
+📺 LIVE STREAMING LINK : https://loancalculates.netlify.app/
 
 ## Contact
 
@@ -28,6 +28,6 @@
 
 📩Email: kathirviswa57@gmail.com
 
-➡️Linkedin:https://www.linkedin.com/in/kathirviswa/
+➡️Linkedin: https://www.linkedin.com/in/kathirviswa/
 
 🙏Thank you for visiting the Loan Calculator repository! Enjoy exploring the project and happy coding!
