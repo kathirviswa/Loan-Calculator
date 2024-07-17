@@ -9,13 +9,17 @@
 ## Features :
 
 👉Calculate Monthly Payments: Enter the loan amount, interest rate, and term to get instant monthly payment results.
+
 👉User-Friendly Interface: Clean and intuitive design for an enjoyable user experience.
+
 👉Responsive Design: Fully functional on both desktop and mobile devices.
 
 ## Technologies Used :
 
 👉HTML: Structure of the web app.
+
 👉CSS: Styling to create a visually appealing layout.
+
 👉JavaScript: Logic to perform calculations and update the interface dynamically.
 
 ## Clone the repository:
