@@ -28,7 +28,7 @@
 
 👉Github Streaming Link :  https://kathirviswa.github.io/Loan-Calculator/
 
-👉Versal-app Streaming Link : https://netflix-clone-mu-nine-11.vercel.app/
+👉Versal-app Streaming Link : https://loan-calculator-woad.vercel.app/
 
 📺 Netlify STREAMING LINK : https://loancalculates.netlify.app/
 
