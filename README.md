@@ -1,7 +1,8 @@
 ﻿ <h1 align="center">Hi 👋, I'm Kathirviswa V</h1>
 <h3 align="center">A passionate Frontend developer</h3>                                  
 <img  alt="Loan Calculator" width="100%" src="./Assets/Main.png">
-# Loan-Calculator
+
+## Loan-Calculator
                             
 ❗A simple yet powerful Loan Calculator built with HTML, CSS, and JavaScript. This application allows users to easily calculate their monthly loan payments based on loan amount, interest rate, and loan term. Perfect for anyone looking to understand their financial options better.
 
